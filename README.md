@@ -1,5 +1,5 @@
 <div align="center">
-# 📊 Introdução ao R para análise de dados em Ciência Política
+# 📊 Introdução ao R para análise de dados em Ciência Política -ABCP 2026
  
 ### `MC08` · Minicurso virtual · 4 horas
  
@@ -15,82 +15,47 @@
  
 ## 👋 Oi, seja bem-vinda(o)
  
-Se você já ouviu mil vezes que "precisa aprender R", já baixou o programa, abriu, viu uma tela preta e fechou tudo — este curso foi feito exatamente para você.
- 
-A gente vai devagar. Do zero mesmo: instalar, entender o que é aquela tela, escrever a primeira linha, ver o primeiro gráfico nascer. Sem pressupor que você sabe programar, sem matemática assustadora e sem vergonha de errar. **Erro aqui é parte do método** — todo mundo que usa R convive com mensagem vermelha no console, inclusive quem dá a aula. 💛
- 
-Ao final, você vai conseguir pegar uma base de dados de verdade, organizá-la, descrevê-la, fazer um gráfico apresentável e rodar suas primeiras análises bivariadas. Não é pouco para 12 horas.
+Esse curso trata-se de uma introdução ao ambiente de programação ! 
  
 ---
  
-## 📌 O básico
+## 📌 Informações
  
 |  |  |
 |---|---|
 | 👩‍🏫 **Ministrante** | Naiara Sandi de Almeida Alcantara (UFPA) |
-| ⏱️ **Carga horária** | 12 horas |
-| 💻 **Formato** | Virtual, com atividades práticas ao vivo |
+| ⏱️ **Carga horária** | 4 horas |
+| 💻 **Formato** | Virtual e Presencial na UFPA |
 | 🎓 **Público** | Graduação, pós-graduação e pesquisadores de Ciência Política, Ciências Sociais e áreas afins |
 | 📋 **Pré-requisitos** | Nenhum. Sério. Só vontade e um computador |
  
 ---
  
-## 🎯 O que você leva daqui
+## 🎯 O que você deverá aprender
  
 - ✅ Entender a lógica de funcionamento do R — objeto, função, pacote
-- ✅ Importar bases de qualquer formato (CSV, Excel, SPSS, Stata)
-- ✅ Manipular e organizar dados: selecionar, filtrar, criar, juntar bases
-- ✅ Fazer estatística descritiva e análise exploratória
-- ✅ Produzir gráficos que dá para colocar num artigo sem se envergonhar
-- ✅ Rodar análise bivariada, correlação e regressão linear simples
+- ✅ Importar bases de dados
+- ✅ Introdução a estatística descritiva e análise exploratória
+- ✅ Introdução a gráficos 
 - ✅ Ler e interpretar os resultados — que é a parte que realmente importa
 ---
  
-## 🗺️ Programação
- 
-<details open>
-<summary><b>📅 Dias 1 e 2 — Introdução ao R e análise exploratória (8h)</b></summary>
-<br>
-- Instalação do R e do RStudio
-- A estrutura do ambiente R: os quatro quadrantes e o que fazer em cada um
-- Funções básicas
-- Criação de data frames
-- Importação de dados: CSV, XLSX, Stata e SPSS
-- Manipulação inicial: seleção, filtragem, exclusão e inserção
-- Junção de bases de dados (*merge* e *joins*)
-- Estruturação e inspeção de dados
-- Visualização gráfica
-- Estatística descritiva
-- Introdução à inferência
-</details>
-<details open>
-<summary><b>📅 Dia 3 — Manipulação de dados e análise bivariada (4h)</b></summary>
-<br>
-- Análise bivariada com variáveis qualitativas
-- Análise bivariada com variáveis quantitativas
-- Correlação
-- Regressão linear simples
-- Interpretação de resultados
-</details>
-> 🧪 **Como funciona na prática:** exposições curtas seguidas de mão na massa. Cada conteúdo vem acompanhado de aplicação direta em bases empíricas da área, com scripts disponibilizados antes da aula — para você replicar, adaptar e reusar na sua própria pesquisa depois.
+
+> 🧪 **Como vai funcionar na prática:** exposições seguidas de mão na massa. Cada conteúdo vem acompanhado de aplicação direta em bases empíricas da área, com scripts disponibilizados por aqui — para você replicar, adaptar e reusar na sua própria pesquisa depois.
  
 ---
  
-## 🧰 Antes da primeira aula
- 
-Reserve 15 minutinhos e faça isso com calma:
+## 🧰 Se quiser se antecipar a primeira aula
  
 **1. Instale o R** 👉 [r-project.org](https://www.r-project.org)
 É o motor: a linguagem que faz as contas.
  
 **2. Instale o RStudio** 👉 [posit.co/download/rstudio-desktop](https://posit.co/download/rstudio-desktop/)
-É o painel: a interface confortável para usar o R. Escolha a versão gratuita.
+É o painel: a interface para usar o R. Escolha a versão gratuita.
  
 > ⚠️ **A ordem importa:** primeiro o R, depois o RStudio. Instalar só o RStudio é como comprar o volante sem o carro.
  
 **3. Baixe o material** 👉 botão verde **`Code`** → **`Download ZIP`**, aqui em cima.
- 
-**4. Travou em alguma etapa?** Sem pânico, é comum. Chegue um pouquinho antes na primeira aula que a gente resolve junto. 🤝
  
 ---
  
@@ -111,7 +76,7 @@ Reserve 15 minutinhos e faça isso com calma:
 <details>
 <summary><b>Nunca programei na vida. Consigo acompanhar?</b></summary>
 <br>
-Consegue. O curso pressupõe exatamente isso. Programar aqui é conversar com o computador numa língua com pouquíssimas palavras — a gente aprende umas vinte no total.
+Consegue. O curso pressupõe exatamente isso. 
 </details>
 <details>
 <summary><b>Preciso ser bom em matemática?</b></summary>
@@ -126,13 +91,9 @@ Sim. O R é leve e roda bem em máquinas modestas, no Windows, no Mac e no Linux
 <details>
 <summary><b>Vou precisar comprar alguma licença?</b></summary>
 <br>
-Nunca. O R e o RStudio são livres e gratuitos — e continuam sendo depois que você sair da universidade, diferente do SPSS e do Stata.
+Nunca. O R e o RStudio são livres e gratuitos 
 </details>
 <details>
-<summary><b>E se eu perder uma aula?</b></summary>
-<br>
-Todo o material fica aqui no repositório, disponível a qualquer hora. Os scripts são comentados justamente para que você consiga refazer sozinha(o).
-</details>
 <details>
 <summary><b>Vou sair do curso sabendo fazer minha dissertação em R?</b></summary>
 <br>
@@ -142,7 +103,7 @@ Vai sair sabendo dar os primeiros passos com segurança e sem medo da ferramenta
  
 ## 👩‍🏫 Sobre a ministrante
  
-**Naiara Sandi de Almeida Alcantara** é professora do Instituto de Filosofia e Ciências Humanas, com atuação na Faculdade de Ciências Sociais e no Programa de Pós-Graduação em Ciência Política da **Universidade Federal do Pará**. Doutora em Ciência Política pela **UFPR**, desenvolve pesquisas em comportamento político, métodos quantitativos e análise de dados. Ministra cursos de R para as Ciências Sociais desde 2021.
+**Naiara Sandi de Almeida Alcantara** é professora do Instituto de Filosofia e Ciências Humanas, com atuação na Faculdade de Ciências Sociais e no Programa de Pós-Graduação em Ciência Política da **Universidade Federal do Pará**. Doutora em Ciência Política pela **UFPR**, desenvolve pesquisas em comportamento político, métodos quantitativos e análise de dados.
  
 🔗 [Currículo Lattes](http://lattes.cnpq.br/3451135311500060)
  
