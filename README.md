@@ -1,9 +1,9 @@
 <div align="center">
 # 📊 Introdução ao R para análise de dados em Ciência Política
  
-### `MC08` · Minicurso virtual · 12 horas
+### `MC08` · Minicurso virtual · 4 horas
  
-*Um curso para quem nunca escreveu uma linha de código —<br>e desconfia que talvez esteja na hora de escrever a primeira.*
+*Um curso para iniciantes —<br>e desconfia que talvez esteja na hora de escrever a primeira.*
  
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white)
