@@ -3,7 +3,7 @@
  
 ### `MC08` · Minicurso virtual · 4 horas
  
-*Um curso para iniciantes —<br>e desconfia que talvez esteja na hora de escrever a primeira.*
+*Um curso para iniciantes 
  
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white)
