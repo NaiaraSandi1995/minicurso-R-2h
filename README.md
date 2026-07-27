@@ -96,8 +96,6 @@ Nunca. O R e o RStudio são livres e gratuitos
 </details>
 
 
- <details>
-
 ---
  
 ## 👩‍🏫 Sobre a ministrante
