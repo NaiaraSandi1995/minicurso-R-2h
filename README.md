@@ -78,6 +78,7 @@ Esse curso trata-se de uma introdução ao ambiente de programação !
 <br>
 Consegue. O curso pressupõe exatamente isso. 
 </details>
+
 <details>
 <summary><b>Preciso ser bom em matemática?</b></summary>
 <br>
@@ -98,7 +99,7 @@ Nunca. O R e o RStudio são livres e gratuitos
 <summary><b>Vou sair do curso sabendo fazer minha dissertação em R?</b></summary>
 <br>
 Vai sair sabendo dar os primeiros passos com segurança e sem medo da ferramenta — que é o mais difícil. O resto vem com prática, e o material fica com você para essa caminhada.
-</details>
+
 ---
  
 ## 👩‍🏫 Sobre a ministrante
