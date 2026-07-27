@@ -97,10 +97,7 @@ Nunca. O R e o RStudio são livres e gratuitos
 
 
  <details>
-<summary><b>Vou sair do curso sabendo fazer minha dissertação em R?</b></summary>
-<br>
-Vai sair sabendo dar os primeiros passos com segurança e sem medo da ferramenta — que é o mais difícil. O resto vem com prática, e o material fica com você para essa caminhada.
-<details>
+
 ---
  
 ## 👩‍🏫 Sobre a ministrante
